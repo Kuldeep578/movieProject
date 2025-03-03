@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F872E353-A740-4FBF-9C60-DBE94C5C8814"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieProject/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - 1ced56af53e972b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - e05b594e8f8b3d91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - d912a9895fa5319d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - 1ced56af53e97358"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - e05b594e8f8b3c70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - d912a9895fa5307c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - e05b594e8f8b3c70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "6407BBE1-3EDA-48C8-9608-0B045368B564 - d912a9895fa5307c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF63C3E5-FE6E-4D96-A4A7-67CE9CA1BF71"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieProject/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF63C3E5-FE6E-4D96-A4A7-67CE9CA1BF71 - 675ea8f3677b4ab5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "CF63C3E5-FE6E-4D96-A4A7-67CE9CA1BF71 - 675ea8f3677b4a96"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "CF63C3E5-FE6E-4D96-A4A7-67CE9CA1BF71 - d912a9895fa53095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B1A0E4F2-847D-47EF-BC53-F9870488840E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieProject/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B1A0E4F2-847D-47EF-BC53-F9870488840E - d8205d6d798ef4fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B1A0E4F2-847D-47EF-BC53-F9870488840E - d8205d6d798ef4d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "B1A0E4F2-847D-47EF-BC53-F9870488840E - d912a9895fa53095"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32425ECE-81DC-4236-B8D2-1EFF6027123A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieProject/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFDE40AC-7564-4622-9435-D6570EE74766"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieProject/ViewModel/MovieViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "FFDE40AC-7564-4622-9435-D6570EE74766 - d912a9895fa50f32"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "FFDE40AC-7564-4622-9435-D6570EE74766 - 675ea8f3677b7577"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in MovieProject.MovieViewModel.fetchMovies() -&gt; ()"
+                  moduleName = "MovieProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kuldeepsingh/Documents/MovieProject/MovieProject/ViewModel/MovieViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "300">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
